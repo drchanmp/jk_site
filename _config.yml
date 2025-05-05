@@ -4,9 +4,9 @@ social_link: twitter
 social_username: drcklinn
 github_repo: jk_site
 github_username: drchanmp
-theme_color: red
+theme_color: gray
 remote_theme: internet-de-france/swiss
-baseurl: /jk-site
+baseurl: /jk-site/
 defaults:
   - scope:
       path: ''
