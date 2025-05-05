@@ -1,6 +1,6 @@
-- title: Home
-  url: /
 - title: About
-  url: /about
+  url: /
+- title: Home
+  url: /home
 - title: Writing
   url: /writing
