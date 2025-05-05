@@ -1,9 +1,9 @@
-title: Swiss Jekyll Theme
-description: A bold typographic theme inspired by Swiss design.
+title: 'Mcmpacme, Inc.'
+description: Foundation used Jekyll themea
 social_link: twitter
-social_username: broccolini
-github_repo: athena
-github_username: broccolini
+social_username: drcklinn
+github_repo: jk_site
+github_username: drchanmp
 theme_color: black
 remote_theme: internet-de-france/swiss
 baseurl: /jk-site
