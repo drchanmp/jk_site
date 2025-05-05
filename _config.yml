@@ -1,0 +1,41 @@
+title: 'Mcmpacme, Inc.'
+description: Foundation used Jekyll themea
+social_link: twitter
+social_username: drcklinn
+github_repo: jk_site
+github_username: drchanmp
+theme_color: gray
+remote_theme: internet-de-france/swiss
+baseurl: /jk-site/
+defaults:
+  - scope:
+      path: ''
+      type: pages
+    values:
+      category_name: ''
+  - scope:
+      path: ''
+      type: posts
+    values:
+      categories: ''
+remote_theme_layouts:
+  - ''
+  - default
+  - page
+  - post
+  - home
+  - category_index
+social_links:
+  - twitter
+  - instagram
+  - medium
+  - dribbble
+theme_colors:
+  - black
+  - blue
+  - gray
+  - magenta
+  - orange
+  - red
+  - white
+  - yellow
