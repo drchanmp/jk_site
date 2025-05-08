@@ -1,12 +1,12 @@
 title: 'Mcmpacme, Inc.'
-description: Foundation used Jekyll themea
+description: 'Foundation Blog Mcmpacme, Inc'
 social_link: twitter
 social_username: drcklinn
-github_repo: jk_site
+github_repo: drchanmp/jk_site
 github_username: drchanmp
 theme_color: gray
 remote_theme: internet-de-france/swiss
-baseurl: /jk-site/
+baseurl: /jk_site/
 defaults:
   - scope:
       path: ''
