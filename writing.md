@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: category_index
 title: About
 permalink: /about.md
 category_name: /
