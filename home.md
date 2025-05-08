@@ -1,6 +1,6 @@
 ---
 title: Home
-layout: home
+layout: category_index
 
 ---
 ![2025-05-04-777574.png](https://drchanmp.github.io/jk_site/assets/2025-05-04-777574.png)
