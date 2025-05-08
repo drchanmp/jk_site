@@ -3,7 +3,6 @@ title: Home
 layout: home
 
 ---
-
 ![2025-05-04-777574.png](https://drchanmp.github.io/jk_site/assets/2025-05-04-777574.png)
 <!DOCTYPE html>
 <html>
@@ -21,13 +20,13 @@ layout: home
     3. copy that <link> tag that looks like:
       <link rel="microsub" href="https://aperture.p3k.io/microsub/000">
       after this HTML comment. -->
-  <title>Mcmpcom Ltd</title>
+  <title>Mcmpacme, Inc.</title>
 </head>
 <body>
-  <h1>Mcmpcom Ltd</h1>
+  <h1>Mcmpacme, Inc.</h1>
   <div class="h-card">
     <p>
-      Hi, my name is <span class="p-name">Dr Chanmp</span> and I am a human on the Internet.
+      Hi, my name is <span class="p-name">Drchanmp</span> and I am a human on the Internet.
     </p>
 
     <p>
